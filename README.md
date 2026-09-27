@@ -2,9 +2,10 @@
 
 ### Student & Full-stack Developer
 
-- 🌏 I'm based in YOUR_CITY, Thailand
-- ✉️ You can contact me at [your.email@example.com](mailto:your.email@example.com)
-- 🧠 I'm currently focusing on **Next.js, NestJS, and PostgreSQL**
+- 🌏 I am based in Bangkok and Korat, Thailand.
+- ✉️ You can contact me at (itthikon.sa11@gmail.com)
+- 🌱 I'm currently learning **Docker and NestJS**
+- 💼 I'm working on **REST APIs with Node.js**
 
 [![Followers](https://img.shields.io/github/followers/Itthikon11?label=Followers&logo=github&style=for-the-badge&color=0e75b6&labelColor=1c1917)](https://github.com/Itthikon11?tab=followers)
 
@@ -14,7 +15,6 @@
 
 Front-End
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=20232A)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
