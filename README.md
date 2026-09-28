@@ -1,4 +1,4 @@
-# Hi 👋 My name is Itthikon Sakunkaew
+# Hi My name is Itthikon Sakunkaew
 
 ### Student & Full-stack Developer
 
@@ -9,7 +9,7 @@
 
 ---
 
-### 🛠️ Skills
+###  Skills
 
 Front-End
 
@@ -51,7 +51,7 @@ Tools & Others
 
 ---
 
-### 📊 GitHub Statistics
+###  GitHub Statistics
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Itthikon11&theme=tokyonight" alt="Itthikon11's GitHub stats" height="165" />
@@ -64,7 +64,7 @@ Tools & Others
 
 ---
 
-### 📱 Connect with me
+###  Connect with me
 
 <a href="https://github.com/Itthikon11" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="32" height="32" />
